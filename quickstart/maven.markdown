@@ -5,6 +5,7 @@ tags: quickstart, guide
 keywords: maven, mutation testing
 layout: default
 permalink: /quickstart/maven/
+toc: true
 ---
 
 # Maven Quick Start
