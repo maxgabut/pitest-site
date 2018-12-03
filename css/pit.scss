@@ -227,14 +227,11 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
   margin-left: 0;
   margin-bottom: 0;
   padding-left: 0;
-  list-style: none;
 
   li {
     display: inline-block;
     padding: 5px 8px;
     line-height: 1;
-    *display: inline;
-    *zoom: 1;
   }
 }
 
